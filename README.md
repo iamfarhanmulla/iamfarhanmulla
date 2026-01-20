@@ -1,3 +1,9 @@
+
+<div align="center">
+  <!-- <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Muhammad+Fiaz+and+Welcome+to+my+Profile!" alt="Hey, I'm Muhammad Fiaz and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <!-- <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/> -->
+</div>
 <h1 align="center">Hi 👋, I'm Farhan</h1>
 <h3 align="center">A passionate Tech Geek from India</h3>
 
