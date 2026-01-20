@@ -72,15 +72,9 @@
 </picture>
 
 <br/>
-<p  style="animation: fadein 2s;">
+<!-- <p  style="animation: fadein 2s;">
   <img src="https://github-contributor-stats.vercel.app/api?username=iamfarhanmulla&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="48%" />
-</p>
+</p> -->
 
 </div>
 </div>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamfarhanmulla&show_icons=true&locale=en&layout=compact" alt="iamfarhanmulla" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamfarhanmulla&show_icons=true&locale=en" alt="iamfarhanmulla" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamfarhanmulla&" alt="iamfarhanmulla" /></p> -->
