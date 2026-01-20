@@ -41,6 +41,42 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamfarhanmulla&theme=tokyonight"
      alt="GitHub Profile Summary"/>
 </p>
+<div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=iamfarhanmulla&theme=tokyonight" alt="GitHub Streak" /></a>
+
+  </div>
+  <br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=iamfarhanmulla&show_icons=true&theme=tokyonight&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=iamfarhanmulla&show_icons=true&theme=tokyonight&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&show_icons=true&theme=tokyonight&count_private=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfarhanmulla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    media="(prefers-color-scheme: dark)"
+    width="36%"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfarhanmulla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    width="36%"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfarhanmulla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%" />
+</picture>
+
+<br/>
+<p  style="animation: fadein 2s;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=iamfarhanmulla&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="48%" />
+</p>
+
+</div>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamfarhanmulla&show_icons=true&locale=en&layout=compact" alt="iamfarhanmulla" /></p>
