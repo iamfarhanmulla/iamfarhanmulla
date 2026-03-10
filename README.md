@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=ffcf3e&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Farhan+Mulla+and+Welcome+to+my+Profile!" alt="Hey, I'm Farhan Mulla and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <!-- <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/> -->
 </div>
+<div align="center">
 <h1 align="center">Hi 👋, I'm Farhan</h1>
 ### Full Stack Developer | Microservices Enthusiast
 
@@ -14,7 +15,7 @@
   [<img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://www.fawazv.online/)
   [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/mohammed-fawaz-216314280/)
   [<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />](mailto:fawazv.business@gmail.com)
-
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamfarhanmulla&label=Profile%20views&color=0e75b6&style=flat" alt="iamfarhanmulla" /> </p>
 
