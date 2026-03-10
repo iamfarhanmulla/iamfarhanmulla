@@ -26,6 +26,22 @@ I am a self-taught **Full Stack Developer** driven by a passion for building rob
 
 I focus heavily on **application architecture** (Controller-Service-Repository patterns) to ensure that the code I write is not only functional but also maintainable and deployment-ready.
 
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Framer Motion, Shadcn UI |
+| **Backend** | Node.js, Express.js, RESTful APIs, Microservices, Worker Services |
+| **Database** | Microsoft Sql Server, MongoDB, PostgreSQL, Firestore, Redis |
+| **DevOps & Cloud** | Docker, Kubernetes, AWS (EC2, S3), GitHub Actions (CI/CD), Nginx |
+| **Tools & Architectures** | Git, Postman, Burp Suite, Figma, MVC, Controller-Service-Repository Pattern |
+
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamfarhanmulla&label=Profile%20views&color=0e75b6&style=flat" alt="iamfarhanmulla" /> </p>
 
 - 🔭 I’m currently working on **The Build Bytes Club**
