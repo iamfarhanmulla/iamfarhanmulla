@@ -14,9 +14,9 @@
     I build scalable, high-performance web applications with a focus on clean architecture and seamless user experiences.
   </p>
 
-  [<img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://www.fawazv.online/)
-  [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/mohammed-fawaz-216314280/)
-  [<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />](mailto:fawazv.business@gmail.com)
+  [<img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://farhanmulla.vercel.app/)
+  [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/farhan-mulla/)
+  [<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />](mailto:ai.farhan@outlook.com)
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamfarhanmulla&label=Profile%20views&color=0e75b6&style=flat" alt="iamfarhanmulla" /> </p>
