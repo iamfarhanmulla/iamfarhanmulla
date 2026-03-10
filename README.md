@@ -22,13 +22,9 @@
 
 ### 👨‍💻 About Me
 
-I am a self-taught **Full Stack Developer** driven by a passion for building robust software solutions. My expertise lies in the **MERN stack (MongoDB, Express, React, Node.js)** and **Next.js**, where I specialize in creating scalable microservices and responsive frontends.
+I am a self-taught **Full Stack Developer** driven by a passion for building robust software solutions. My expertise lies in (React.js, Node.js, Sql Server, REST api, Asp.net core)** and **Next.js**, where I specialize in creating scalable microservices and responsive frontends.
 
-I focus heavily on **application architecture** (Controller-Service-Repository patterns) and **DevOps** integration (Docker, CI/CD) to ensure that the code I write is not only functional but also maintainable and deployment-ready.
-
-* 🔭 **Currently working on:** Advanced Microservices patterns with RabbitMQ.
-* 🌱 **Learning:** Deepening my knowledge of Cloud Infrastructure (AWS/GCP).
-* ⚡ **Core Philosophy:** Clean code, performance optimization, and continuous learning.
+I focus heavily on **application architecture** (Controller-Service-Repository patterns) to ensure that the code I write is not only functional but also maintainable and deployment-ready.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamfarhanmulla&label=Profile%20views&color=0e75b6&style=flat" alt="iamfarhanmulla" /> </p>
 
